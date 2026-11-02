@@ -45,3 +45,4 @@
 - 🎥 [**The Movie DB API**](https://developers.themoviedb.org/3) - База података о филмовима.
 - 📅 [**digidates**](https://digidates.com) - Управљање датумима и догађајима.
 - ✈️ [**OpenSky Network**](https://opensky-network.org/apidoc/index.html) - Подаци о ваздушном саобраћају.
+- 🌅 [**Bucketlist Dream of the Day**](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) - Бесплатан дневни предлог активности без API кључа; подразумевано на холандском, за Холандију.

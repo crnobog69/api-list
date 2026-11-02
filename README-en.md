@@ -45,3 +45,4 @@
 - 🎥 [**The Movie DB API**](https://developers.themoviedb.org/3) - Movie database.
 - 📅 [**digidates**](https://digidates.com) - Date and event management.
 - ✈️ [**OpenSky Network**](https://opensky-network.org/apidoc/index.html) - Air traffic data.
+- 🌅 [**Bucketlist Dream of the Day**](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) - Free, keyless daily experience suggestion; defaults to Dutch and Netherlands scope.
